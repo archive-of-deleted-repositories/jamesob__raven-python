@@ -115,7 +115,7 @@ within Sentry.
 
 ::
 
-    public_key = '***REMOVED***'
+    secret_key = '***REMOVED***'
 
 site
 ~~~~
