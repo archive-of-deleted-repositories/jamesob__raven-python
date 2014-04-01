@@ -239,9 +239,9 @@ the optional DSN argument::
 
 You should get something like the following, assuming you're configured everything correctly::
 
-  $ raven test http://dd2c825ff9b1417d88a99573903ebf80:***REMOVED***@localhost:9000/1
+  $ raven test sync+http://dd2c825ff9b1417d88a99573903ebf80:***REMOVED***@localhost:9000/1
   Using DSN configuration:
-    http://dd2c825ff9b1417d88a99573903ebf80:***REMOVED***@localhost:9000/1
+    sync+http://dd2c825ff9b1417d88a99573903ebf80:***REMOVED***@localhost:9000/1
 
   Client configuration:
     servers        : ['http://localhost:9000/api/store/']
